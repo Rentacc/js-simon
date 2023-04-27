@@ -1,0 +1,15 @@
+.countdown {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .countdown span {
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    margin: 0 10px;
+  }
+  
